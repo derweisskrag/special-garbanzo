@@ -1,0 +1,2 @@
+Because '![]' means false. Therefore,
+'false == false', which evaluates to 'true'.

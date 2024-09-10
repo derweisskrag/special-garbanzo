@@ -1,0 +1,3 @@
+The capital of Estonia is known to be Tallinn. 
+Since the answer should be given as lowercase string,
+the answer is 'tallinn'.
