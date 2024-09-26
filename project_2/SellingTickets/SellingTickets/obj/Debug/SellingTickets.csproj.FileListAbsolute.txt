@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\bin\Debug\SellingTickets.exe.config
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\bin\Debug\SellingTickets.exe
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\bin\Debug\SellingTickets.pdb
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\obj\Debug\SellingTickets.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\obj\Debug\SellingTickets.Form1.resources
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\obj\Debug\SellingTickets.Properties.Resources.resources
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\obj\Debug\SellingTickets.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\obj\Debug\SellingTickets.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\obj\Debug\SellingTickets.exe
+C:\Users\Administrator\Desktop\special-garbanzo\project_2\SellingTickets\SellingTickets\obj\Debug\SellingTickets.pdb
