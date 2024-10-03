@@ -1,2 +1,4 @@
 # Ignore the visual studio
 .vs
+
+.fake
