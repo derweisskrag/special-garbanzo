@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\bin\Debug\bmi_measure.exe.config
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\bin\Debug\bmi_measure.exe
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\bin\Debug\bmi_measure.pdb
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\obj\Debug\bmi_measure.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\obj\Debug\bmi_measure.Form1.resources
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\obj\Debug\bmi_measure.Properties.Resources.resources
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\obj\Debug\bmi_measure.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\obj\Debug\bmi_measure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\obj\Debug\bmi_measure.exe
+C:\Users\Administrator\Desktop\special-garbanzo\project_3\bmi_measure\bmi_measure\obj\Debug\bmi_measure.pdb
