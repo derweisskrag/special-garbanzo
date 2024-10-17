@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\special-garbanzo\tests\project_4\Factorial\Factorial\obj\Debug\net8.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\special-garbanzo\tests\project_4\Factorial\Factorial\obj\Debug\net8.0\Factorial.Properties.Resources.resources
+C:\Users\Administrator\Desktop\special-garbanzo\tests\project_4\Factorial\Factorial\obj\Debug\net8.0\Factorial.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\special-garbanzo\tests\project_4\Factorial\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\special-garbanzo\tests\project_4\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\special-garbanzo\tests\project_4\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\special-garbanzo\tests\project_4\Factorial\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\special-garbanzo\tests\project_4\Factorial\Factorial\obj\Debug\net8.0\Factorial.sourcelink.json
