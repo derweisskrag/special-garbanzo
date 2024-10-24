@@ -2,3 +2,7 @@
 .vs
 
 .fake
+
+debug
+bin
+*.exe
