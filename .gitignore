@@ -1,8 +1,9 @@
 # Ignore the visual studio
 .vs
+*.sln
+.sln
 
 .fake
 
 debug
 bin
-*.exe
