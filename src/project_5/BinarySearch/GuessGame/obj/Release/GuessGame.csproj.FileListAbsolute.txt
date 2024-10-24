@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\bin\Release\GuessGame.exe.config
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\bin\Release\GuessGame.exe
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\bin\Release\GuessGame.pdb
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\obj\Release\GuessGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\obj\Release\GuessGame.Form1.resources
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\obj\Release\GuessGame.Properties.Resources.resources
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\obj\Release\GuessGame.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\obj\Release\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\obj\Release\GuessGame.exe
+C:\Users\Administrator\Desktop\special-garbanzo\src\project_5\BinarySearch\GuessGame\obj\Release\GuessGame.pdb
