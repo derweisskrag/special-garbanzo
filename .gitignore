@@ -3,7 +3,7 @@
 *.sln
 .sln
 
-.fake
+.vscode
 
 debug
 bin

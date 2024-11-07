@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS Users (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    Name TEXT,
+    Wins INTEGER DEFAULT 0,
+    Losses INTEGER DEFAULT 0,
+    UserOption INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS GameHistory (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    UserId INTEGER,
+    UserChoice INTEGER,
+    ComputerChoice INTEGER,
+    Result TEXT,  -- Could be "Win", "Loss", or "Draw"
+    FOREIGN KEY(UserId) REFERENCES Users(Id)
+);
