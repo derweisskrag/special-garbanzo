@@ -1,9 +1,12 @@
 # Ignore the visual studio
 .vs
-*.sln
-.sln
+
 
 .vscode
+*.resx
+*.csproj
+*.csproj.user
 
+obj
 debug
 bin
